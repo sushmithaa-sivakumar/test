@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Report Issue ">e755402493328210af6574418bba10ec</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-11 11:08:29</sys_created_on>
+        <sys_id>e82704a493328210af6574418bba10fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report Issue </sys_name>
+        <sys_package display_value="Test" source="x_1438986_test">da4aaf5093be4210af6574418bba10f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">da4aaf5093be4210af6574418bba10f1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_e82704a493328210af6574418bba10fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-11 11:08:29</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test">da4aaf5093be4210af6574418bba10f1</application>
+        <file_path/>
+        <instance_id>55456ad21bae0214c8432f8dee4bcb99</instance_id>
+        <instance_name>dev274082</instance_name>
+        <name>sc_cat_item_catalog_e82704a493328210af6574418bba10fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report Issue ">e755402493328210af6574418bba10ec</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-11 11:08:29</sys_created_on><sys_id>e82704a493328210af6574418bba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Report Issue </sys_name><sys_package display_value="Test" source="x_1438986_test">da4aaf5093be4210af6574418bba10f1</sys_package><sys_policy/><sys_scope display_value="Test">da4aaf5093be4210af6574418bba10f1</sys_scope><sys_update_name>sc_cat_item_catalog_e82704a493328210af6574418bba10fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-11 11:08:29</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1811127916</payload_hash>
+        <record_name>Service Catalog.Report Issue </record_name>
+        <reverted_from/>
+        <source>9e4aef5093be4210af6574418bba1058</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-11 11:08:29</sys_created_on>
+        <sys_id>ec2704a493328210af6574418bba10fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19006fc31fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-11 11:08:29</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>ec2704a4dc3282100cc19011922e81fd</update_guid>
+        <update_guid_history>ec2704a4dc3282100cc19011922e81fd:1811127916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Report Issue ">ff67c8a493328210af6574418bba104c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-11 11:09:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4fa1deccd9da4924a908ea8fe5344bd9</sys_id>
+        <sys_metadata>e82704a493328210af6574418bba10fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report Issue </sys_name>
+        <sys_package display_value="Test" source="x_1438986_test">da4aaf5093be4210af6574418bba10f1</sys_package>
+        <sys_parent display_value="Report Issue ">e755402493328210af6574418bba10ec</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test">da4aaf5093be4210af6574418bba10f1</sys_scope>
+        <sys_scope_delete display_value="">1f4e98d38b2b42b787bd653b6728ea39</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_e82704a493328210af6574418bba10fa</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_e82704a493328210af6574418bba10fa">ec2704a493328210af6574418bba10fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-11 11:09:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
